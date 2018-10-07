@@ -1,0 +1,4 @@
+﻿  ConsoleApplication10.cpp
+c:\users\wz1999\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(80): warning C4715: “Precede”: 不是所有的控件路径都返回值
+c:\users\wz1999\source\repos\consoleapplication10\consoleapplication10\consoleapplication10.cpp(132): warning C4715: “Operate”: 不是所有的控件路径都返回值
+  ConsoleApplication10.vcxproj -> C:\Users\wz1999\source\repos\ConsoleApplication10\Debug\ConsoleApplication10.exe
